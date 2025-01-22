@@ -28,6 +28,8 @@ public class Prjava02 {
             System.out.println("Versió OS: " + System.getProperty("os.version"));
             System.out.println("Creació d'una branca del projecte prjava02");
 			System.out.println("Afegint més codi des de la branca00 del projecte prjava02");
+			System.out.println("Afegint codi des de la branca01 del projecte prjava02");
+
 
 
 
